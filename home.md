@@ -1,5 +1,7 @@
 # Home Title
 
+> all the wikilinks resolve correctly when hovered over or clicked on
+
 [[sibling 1]] (would expect to see `Sibling 1 Title`)
 
 [[foo]] (would expect to see `Foo Title`)
